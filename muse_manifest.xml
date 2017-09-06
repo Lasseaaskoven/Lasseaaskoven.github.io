@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lasseaaskoven.dk" resolutions="1x" timestamp="1504722783995">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4054842752" ref="teaching:research:index"/>
+    <file name="teaching.css" crc="4211163327" ref="teaching"/>
+    <file name="research.css" crc="92258075" ref="research"/>
+    <file name="index.css" crc="480588815" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:teaching"/>
+    <file name="museutils.js" crc="17924269" ref="index:research:teaching"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research:teaching"/>
+    <file name="museconfig.js" crc="278381782" ref="index:research:teaching"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:research:teaching"/>
+    <file name="require.js" crc="3861931657" ref="index:research:teaching"/>
+  </folder>
+  <folder name="images">
+    <file name="21397701_10155682912376060_683984311_n.jpg" crc="476687983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="387724297" seo="true" mt="1504722759318" redirect="true"/>
+  <file name="research.html" crc="3940335196" seo="true" mt="1504722759318" redirect="true"/>
+  <file name="teaching.html" crc="3891399116" seo="true" mt="1504722759318" redirect="true"/>
+</manifest>
