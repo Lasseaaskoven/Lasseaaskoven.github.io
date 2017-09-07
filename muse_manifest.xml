@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lasseaaskoven.dk" resolutions="1x" timestamp="1504725191910">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lasseaaskoven.dk" resolutions="1x" timestamp="1504737405771">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4054842752" ref="teaching:research:index"/>
-    <file name="teaching.css" crc="4211163327" ref="teaching"/>
-    <file name="research.css" crc="3998803850" ref="research"/>
-    <file name="index.css" crc="266923282" ref="index"/>
+    <file name="master_a-master.css" crc="428551801" ref="index:research:teaching"/>
+    <file name="index.css" crc="4257830180" ref="index"/>
+    <file name="research.css" crc="461442195" ref="research"/>
+    <file name="teaching.css" crc="3809235838" ref="teaching"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:teaching"/>
@@ -20,7 +20,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3785276280" seo="true" mt="1504723145047" redirect="true"/>
-  <file name="research.html" crc="300268882" seo="true" mt="1504725128434" redirect="true"/>
-  <file name="teaching.html" crc="3891399116" seo="true" mt="1504722759318" redirect="true"/>
+  <file name="index.html" crc="4289622509" seo="true" mt="1504737337972" redirect="true"/>
+  <file name="research.html" crc="193112197" seo="true" mt="1504737337972" redirect="true"/>
+  <file name="teaching.html" crc="392329954" seo="true" mt="1504737337972" redirect="true"/>
 </manifest>
